@@ -1,4 +1,4 @@
-FROM php:apache
+FROM php:5.5-5.5-5.5-5.5-5.5-apache
 MAINTAINER Vincent DAVENEL <vincent@aiglecom.com>
 
 ENV DEBIAN_FRONTEND noninteractive
